@@ -1,7 +1,7 @@
 # HHImageZoom
 利用scrollView实现简单的图片预览, 双击放大、缩小处理, 代码简单易懂
 
-核心代码
+核心代码:
 ```
 //双击手势处理
 if scrollView.zoomScale > 1.0 {
